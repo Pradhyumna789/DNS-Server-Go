@@ -2,7 +2,7 @@
 
 ## Project Abstract
 
-### This project is a from-scratch implementation of a basic DNS server, built as part of the Codecrafters DNS challenge. It explores the mechanics of the DNS protocol — the backbone of how domain names are resolved to IP addresses on the internet.
+### This project is a from-scratch implementation of a basic DNS server. It explores the mechanics of the DNS protocol — the backbone of how domain names are resolved to IP addresses on the internet.
 
 ### Throughout the project, the server evolves from a simple UDP listener to a fully functional DNS responder capable of parsing, constructing, and forwarding DNS queries.
 
